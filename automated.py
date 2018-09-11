@@ -1,0 +1,1 @@
+print("Automation is cool.")
